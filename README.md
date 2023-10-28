@@ -5,7 +5,7 @@ This Wu-Tang Name Generator application provides a fun and interactive way for u
 ### Demo:
 
 <p align="center">
-  <img src="../wu-tang-generator-bootcamp/img/Wu.png" alt="Coin Flip Demo"/>
+  <img src="../img/Wu.png" alt="Wu-Tang"/>
 </p>
 
 ### Client-Side JavaScript
@@ -128,4 +128,5 @@ Each dropdown menu corresponds to a different question, allowing users to select
 ## Conclusion
 
 Developing the Wu-Tang Name Generator was a fantastic learning experience in integrating client-side interactions with server-side logic. It showcased the power of JavaScript both in the browser and on the server, creating a fun and interactive application.
+
 # wu-tangNameGenerator
