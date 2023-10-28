@@ -5,7 +5,7 @@ This Wu-Tang Name Generator application provides a fun and interactive way for u
 ### Demo:
 
 <p align="center">
-  <img src="img/Wu.png" alt="Wu-Tang"/>
+  <img src="img/Wu.png" alt="Demo"/>
 </p>
 
 ### Client-Side JavaScript
